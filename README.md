@@ -1,4 +1,4 @@
-w do ## Cartoon Collections
+do ## Cartoon Collections
 
 ## Objectives
 
